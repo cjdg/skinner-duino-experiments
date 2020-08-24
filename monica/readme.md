@@ -1,10 +1,10 @@
 # Conexiones
 
-## 12 V
+## 12 V PWM
 
 * OUT1 - Perilstaltica
 
-## 3.3V
+## 3.3V PWM
 
 * vibrador
 
